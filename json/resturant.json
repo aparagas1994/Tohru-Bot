@@ -1,0 +1,79 @@
+{
+    "meals": {
+        "breakfast": {
+            "startTime": 4,
+            "endTime": 10,
+            "resturants": [{
+                "name" : "McDonalds",
+                "minPrice" : 2,
+                "maxPrice" : 8},
+                {
+                "name" : "Ihop",
+                "minPrice" : 8,
+                "maxPrice" : 20
+                }
+            ]
+        },
+        "lunch": {
+            "startTime": 10,
+            "endTime": 15,
+            "resturants": [{
+                "name" : "Panda Express",
+                "minPrice" : 2,
+                "maxPrice" : 8},
+                {
+                "name" : "Eorzea Cafe",
+                "minPrice" : 8,
+                "maxPrice" : 20
+                }
+            ]
+        },
+        "dinner": {
+            "startTime": 15,
+            "endTime": 22,
+            "resturants": [{
+                "name" : "Iza's Fried Chocobos",
+                "minPrice" : 38,
+                "maxPrice" : 75},
+                {
+                "name" : "Smithfields Chicken 'N Bar-B-Q",
+                "minPrice" : 9,
+                "maxPrice" : 18
+                },
+                {
+                "name" : "Eorzea Hooters",
+                "minPrice" : 15,
+                "maxPrice" : 30
+                },{
+                "name" : "Cam's New York Pizzeria",
+                "minPrice" : 5,
+                "maxPrice" : 20
+                }
+            ]
+        },
+        "dessert": {
+            "startTime": 22,
+            "endTime": 4,
+            "resturants": [{
+                "name" : "Cold Stone Creamery",
+                "minPrice" : 2,
+                "maxPrice" : 8},
+                {
+                "name" : "Baskin Robbins",
+                "minPrice" : 8,
+                "maxPrice" : 20
+                }
+            ]
+        }
+    },
+
+    "responses" : [
+        "What? You said you'll pay for it",
+        "Well you did get your other friends food one time, get some for us",
+        "Aww, why not dragon tail? I've removed the poison...",
+        "http://i.imgur.com/WiXFaEN.png",
+        "http://i.imgur.com/mxG8naw.png",
+        "But I cook better ;w;",
+        "Can I also have a small loan of a million? :3"
+    ]
+}

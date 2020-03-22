@@ -1,0 +1,114 @@
+{
+  "astrocards": {
+    "cards": [
+      {
+        "name": "Balance",
+        "emoji": "<:balance:288348914099290112>"
+      },
+      {
+        "name": "Bole",
+        "emoji": "<:bole:288348914162073600>"
+      },
+      {
+        "name": "Arrow",
+        "emoji": "<:arrow:288348914019729408>"
+      },
+      {
+        "name": "Spear",
+        "emoji": "<:spearffxiv:288348914292359168>"
+      },
+      {
+        "name": "Ewer",
+        "emoji": "<:ewer:288348914199822336>"
+      },
+      {
+        "name": "Spire",
+        "emoji": "<:spire:288348914300747776>"
+      }
+    ],
+    "effects": [
+      {
+        "saying": "a normal",
+        "emoji": ""
+      },
+      {
+        "saying": "an extended",
+        "emoji": "<:extend:288726690581184523>"
+      },
+      {
+        "saying": "an enhanced",
+        "emoji": "<:enc:288726690304098309>"
+      },
+      {
+        "saying": "an expanded",
+        "emoji": "<:expand:288726690711076864>"
+      }
+    ],
+    "timeExtend": [
+      {
+        "name": " with Time Dilation!",
+        "emoji": "<:time:288381921480933376>"
+      },
+      {
+        "name": " with Celestial Opposition!",
+        "emoji": "<:cel:288381920851525635>"
+      },
+      {
+        "name": " with Time Dilation & Celestial Opposition!",
+        "emoji": "<:time:288381921480933376><:cel:288381920851525635>"
+      }
+    ]
+  },
+  "balance_pics": {
+    "288042810140262403": {
+      "name": "tohru",
+      "chance": 100,
+      "pics": [
+        "http://puu.sh/uKLw7/7335b1ccb0.png",
+        "http://puu.sh/uKILl/4d925963d8.jpg",
+        "http://puu.sh/uJhU9/6c5e8436ab.png"
+      ]
+    },
+    "158381388255461376": {
+      "name": "toki",
+      "chance": 100,
+      "pics": [
+        "http://puu.sh/uJjxP/1f91958a1b.png",
+        "http://puu.sh/uJjMP/a0942f2884.png"
+      ]
+    },
+    "291687380858044420": {
+      "name": "akizuki",
+      "chance": 100,
+      "pics": [
+        "http://puu.sh/uKK4J/2df10d4dcd.png"
+      ]
+    },
+    "default": {
+      "name": "default",
+      "chance": 100,
+      "pics": [
+        "http://puu.sh/uKChS/3083df7a46.png",
+        "http://puu.sh/uKLJ4/77f3a30c49.png"
+      ]
+    }
+  },
+  "not_balance_pics": {
+    "157309494181756928": {
+      "name": "naota",
+      "chance": 10,
+      "pics": [
+        "http://puu.sh/uJkqx/5e1ebe77f8.png"
+      ]
+    },
+    "default": {
+      "name": "default",
+      "chance": 50,
+      "pics": [
+        "http://puu.sh/uOZi0/48ee87ff36.png",
+        "http://puu.sh/uM1jn/496ebf9e86.png",
+        "http://puu.sh/uMkJ4/e6bdbe34cc.png"
+      ]
+    }
+  }
+}
